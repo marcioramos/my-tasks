@@ -98,6 +98,11 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# Ignore the default SQLite database.
+*.db
+*.db-shm
+*.db-wal
+
 # Chutzpah Test files
 _Chutzpah*
 
